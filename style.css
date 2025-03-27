@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+nav{
+    
+    display:inline;
+    margin:10%;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    padding: 50px;
+}
+
+h1,ul,li{
+    display:inline;
+}
+
+ul{
+ margin-left:20%;
+
+}
+
+button1{
+margin-left:1%;
+padding: 10px;
+background-color:white;
+color:orangered;
+
+}
+
+button2{
+    background-color: orangered;
+    color: white;
+}
+ 
+
+
+
