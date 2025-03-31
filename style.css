@@ -119,6 +119,9 @@ body {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
+.arrow{
+    color: #ff6600;
+}
 
 .search-item {
     margin: 0 15px;
@@ -310,6 +313,16 @@ body {
     margin-top: 20px;
 }
 
+.prev {
+    color: white;
+    font-size: 20px;
+}
+
+.next {
+    color: #d85400;
+    font-size: 20px;
+}
+
 .navigation button {
     background: #ff6600;
     color: white;
@@ -455,7 +468,6 @@ body {
     background-color: #f9f9f9;
     position: relative;
 }
-
 .testimonial-text {
     max-width: 40%;
 }
